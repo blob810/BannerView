@@ -1,10 +1,4 @@
-//
-//  BannerView.swift
-//  CustomBanner
-//
-//  Created by Christian Kailan (E-E) on 17.03.20.
-//  Copyright © 2020 Christian Kailan (E-E). All rights reserved.
-//
+
 
 import UIKit
 
